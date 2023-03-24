@@ -1,0 +1,25 @@
+<style>
+h1 {
+color: blue;
+background-color: yellow;
+border: 1px solid black;
+}
+p {
+color: red;
+}
+body {
+font-family: Tahoma, serif;
+}
+h1 {
+color: #999999;
+}
+.learned-ok {
+color: green;
+}
+.learning-in-progress {
+color: orange;
+}
+.not-learned {
+color: red;
+}
+</style>
